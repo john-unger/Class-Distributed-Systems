@@ -1,5 +1,5 @@
 /*
- * par_sum.c
+ * parrallel_sumation.c
  *
  * CS 470 Project 1 (Pthreads)
  * Parallel version
