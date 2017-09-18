@@ -1,5 +1,5 @@
 /**
- * dht.c
+ * distribHashTable.c
  *
  * CS 470 Project 4
  *
